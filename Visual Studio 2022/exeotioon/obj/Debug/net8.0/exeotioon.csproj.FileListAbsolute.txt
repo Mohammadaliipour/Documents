@@ -1,0 +1,14 @@
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\bin\Debug\net8.0\exeotioon.exe
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\bin\Debug\net8.0\exeotioon.deps.json
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\bin\Debug\net8.0\exeotioon.runtimeconfig.json
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\bin\Debug\net8.0\exeotioon.dll
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\bin\Debug\net8.0\exeotioon.pdb
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.AssemblyInfoInputs.cache
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.AssemblyInfo.cs
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.csproj.CoreCompileInputs.cache
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.dll
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\refint\exeotioon.dll
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.pdb
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\exeotioon.genruntimeconfig.cache
+C:\Users\DigiSystem\Documents\Visual Studio 2022\exeotioon\obj\Debug\net8.0\ref\exeotioon.dll
